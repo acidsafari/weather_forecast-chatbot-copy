@@ -1,0 +1,51 @@
+,city,date,temperature,maximum_temp,minimum_temp,weather,weather_description
+0,Cumbria,2024-06-23,15.6,17.7,17.7,Clouds,broken clouds
+1,Cumbria,2024-06-24,18.9,18.9,18.9,Clouds,scattered clouds
+2,Cumbria,2024-06-25,19.6,19.6,19.6,Clouds,overcast clouds
+3,Cumbria,2024-06-26,19.0,19.0,19.0,Rain,light rain
+4,Cumbria,2024-06-27,19.3,19.3,19.3,Rain,light rain
+5,Corfe Castle,2024-06-23,16.6,17.6,17.6,Clouds,scattered clouds
+6,Corfe Castle,2024-06-24,19.1,19.1,19.1,Clouds,broken clouds
+7,Corfe Castle,2024-06-25,20.6,20.6,20.6,Clear,clear sky
+8,Corfe Castle,2024-06-26,21.6,21.6,21.6,Rain,light rain
+9,Corfe Castle,2024-06-27,19.9,19.9,19.9,Clouds,overcast clouds
+10,The Cotswolds,2024-06-23,17.8,19.3,19.3,Clouds,broken clouds
+11,The Cotswolds,2024-06-24,21.0,21.0,21.0,Clouds,broken clouds
+12,The Cotswolds,2024-06-25,22.2,22.2,22.2,Clear,clear sky
+13,The Cotswolds,2024-06-26,22.3,22.3,22.3,Clear,clear sky
+14,The Cotswolds,2024-06-27,17.7,17.7,17.7,Rain,light rain
+15,Cambridge,2024-06-23,19.3,21.0,21.0,Clouds,few clouds
+16,Cambridge,2024-06-24,22.2,22.2,22.2,Clouds,overcast clouds
+17,Cambridge,2024-06-25,23.6,23.6,23.6,Clear,clear sky
+18,Cambridge,2024-06-26,24.4,24.4,24.4,Rain,light rain
+19,Cambridge,2024-06-27,24.6,24.6,24.6,Clouds,overcast clouds
+20,Bristol,2024-06-23,18.6,19.9,19.9,Clouds,overcast clouds
+21,Bristol,2024-06-24,22.1,22.1,22.1,Clouds,few clouds
+22,Bristol,2024-06-25,24.4,24.4,24.4,Clear,clear sky
+23,Bristol,2024-06-26,24.1,24.1,24.1,Clear,clear sky
+24,Bristol,2024-06-27,17.9,17.9,17.9,Clouds,overcast clouds
+25,Oxford,2024-06-23,17.6,19.2,19.2,Clouds,scattered clouds
+26,Oxford,2024-06-24,22.7,22.7,22.7,Clouds,broken clouds
+27,Oxford,2024-06-25,23.4,23.4,23.4,Clear,clear sky
+28,Oxford,2024-06-26,23.2,23.2,23.2,Rain,light rain
+29,Oxford,2024-06-27,21.8,21.8,21.8,Clouds,overcast clouds
+30,Norwich,2024-06-23,19.6,21.9,21.9,Clear,clear sky
+31,Norwich,2024-06-24,23.4,23.4,23.4,Clouds,overcast clouds
+32,Norwich,2024-06-25,23.6,23.6,23.6,Clear,clear sky
+33,Norwich,2024-06-26,23.4,23.4,23.4,Clear,clear sky
+34,Norwich,2024-06-27,23.6,23.6,23.6,Clouds,overcast clouds
+35,Stonehenge,2024-06-23,17.0,18.2,18.2,Clouds,broken clouds
+36,Stonehenge,2024-06-24,21.1,21.1,21.1,Clouds,broken clouds
+37,Stonehenge,2024-06-25,23.0,23.0,23.0,Clear,clear sky
+38,Stonehenge,2024-06-26,23.5,23.5,23.5,Rain,light rain
+39,Stonehenge,2024-06-27,21.9,21.9,21.9,Clouds,overcast clouds
+40,Watergate Bay,2024-06-23,16.3,16.7,16.7,Clouds,overcast clouds
+41,Watergate Bay,2024-06-24,17.8,17.8,17.8,Clouds,few clouds
+42,Watergate Bay,2024-06-25,17.1,17.1,17.1,Rain,light rain
+43,Watergate Bay,2024-06-26,16.4,16.4,16.4,Rain,light rain
+44,Watergate Bay,2024-06-27,18.2,18.2,18.2,Rain,light rain
+45,Birmingham,2024-06-23,18.1,19.4,19.4,Clouds,scattered clouds
+46,Birmingham,2024-06-24,22.9,22.9,22.9,Clouds,few clouds
+47,Birmingham,2024-06-25,22.8,22.8,22.8,Rain,light rain
+48,Birmingham,2024-06-26,24.0,24.0,24.0,Clear,clear sky
+49,Birmingham,2024-06-27,19.8,19.8,19.8,Clouds,overcast clouds

@@ -1,0 +1,8 @@
+Pythagorean theorem?
+if a triangle has a and b small sides, and c large side; a square plus b squared equals c squared
+law of cosines?
+c**2 = a**2 + b**2 - (2 * a * b * cos(gamma))
+sum of angles in a triangle?
+180 degrees
+maths to understand machine learning?
+Yes, you do. One needs basics of linear algebra and statistics to understand ML algorithms.
